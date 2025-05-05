@@ -1,0 +1,9 @@
+{
+  "name": "InfiniteAmmoMod",
+  "version_number": "1.0.0",
+  "website_url": "https://example.com/",
+  "description": "Mod dodaj\u0105cy niesko\u0144czon\u0105 amunicj\u0119 do gry R.E.P.O.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
